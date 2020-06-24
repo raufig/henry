@@ -1,0 +1,5 @@
+Variables: Son "cajas" o espacios que se utilizan para almacenar información en la memoria del ordenador con el fin de poder acceder a la información almacenada.
+Strings: es un tipo de los datos que podemos almacenar en dentro de las variables. este tipo de datos strings permiten almacenar cadenas de caracteres, estos caracteres pueden ser de combinaciones alfanuméricas.
+Funciones: las funciones son procedimientos o tareas que le damos al programa.
+Declaraciones: las declaraciones pueden ser de varios tipos, con cada una le decimos al ordenador instrucciones que debe hacer cuando se cumplan o no dichas órdenes.
+Valores booleanos: estos son otro tipo de datos como el string pero estos solo pueden tomar dos valores: verdadero código de maquina 1, o falso código de maquina 0
